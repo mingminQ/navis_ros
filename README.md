@@ -1,1 +1,1 @@
-NAVIS : Normalized Autonomous Vehicle Implementation Software
+Normalized Autonomous Vehicle Integration Software
