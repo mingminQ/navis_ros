@@ -13,8 +13,8 @@
  * --------------------------------------------------
  */
 
-#ifndef NAVIS_UTIL_FORWARDDECLARATION_H_
-#define NAVIS_UTIL_FORWARDDECLARATION_H_
+#ifndef NAVIS_UTIL_FORWARDDECLARATIONS_H_
+#define NAVIS_UTIL_FORWARDDECLARATIONS_H_
 
 #include <memory>
 
