@@ -26,4 +26,4 @@
     class CLASS_NAME;                                   \
     using CLASS_NAME##Ptr = std::shared_ptr<CLASS_NAME>
 
-#endif // NAVIS_UTIL_FORWARDDECLARATION_H_
+#endif // NAVIS_UTIL_FORWARDDECLARATIONS_H_
